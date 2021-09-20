@@ -1,8 +1,8 @@
 # 我是竹子  ![AngularBaby-Undefined](https://img.shields.io/badge/name-竹子-brightgreen)
 - 一个正在找工作的前端准程序员
-- 作品: [京东到家APP](http://www.poemcoder.club:8883/)
+- 作品: <font color="#81debf">[京东到家APP](http://www.poemcoder.club:8883/)</font>
 - 
-- 个人博客:[blog.poemcoder.club](http://blog.poemcoder.club)
+- 个人博客:<font color="#81debf">[blog.poemcoder.club](http://blog.poemcoder.club)</font>
 <!--
   参数:
     - username: 自己的GitHub用户名
