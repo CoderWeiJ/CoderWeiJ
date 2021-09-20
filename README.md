@@ -4,6 +4,3 @@
 
 # 常用编程语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngularBaby-Undefined)](https://github.com/anuraghazra/github-readme-stats)
-
-
-https://img.shields.io/amo/users/AngularBaby-Undefined?style=for-the-badge
