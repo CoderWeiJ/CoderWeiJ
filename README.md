@@ -1,6 +1,6 @@
 # 我是竹子  ![CoderWeiJ](https://img.shields.io/badge/name-竹子-brightgreen)
 - 一个正在找工作的前端准程序员
-- 作品: <font color="#81debf">[京东到家APP](http://jd.poemcoder.club)</font>
+- 作品: <font color="#81debf">[京东到家 webAPP](http://jd.poemcoder.club)</font>、<font color="#81debf">[哔哩哔哩移动端](http://bilibili.poemcoder.club)</font>
 - 个人博客:<font color="#81debf">[blog.poemcoder.club](http://blog.poemcoder.club)</font>
 <!--
   参数:
