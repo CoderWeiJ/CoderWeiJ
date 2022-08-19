@@ -1,5 +1,5 @@
 # 我是竹子  ![CoderWeiJ](https://img.shields.io/badge/name-竹子-brightgreen)
-- 个人博客：<font color="#81debf">[blog.poemcoder.club](http://blog.poemcoder.club)</font>
+<!-- - 个人博客：<font color="#81debf">[blog.poemcoder.club](http://blog.poemcoder.club)</font> -->
 - 项目：[博客网站](https://github.com/CoderWeiJ/Mblog)
 
 
